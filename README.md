@@ -52,3 +52,9 @@ php artisan migrate:refresh --seed
 
 Acesse o projeto
 [http://localhost/login](http://localhost/login)
+
+<hr>
+
+## Tela Inicial - Dashboard
+
+![dashboard-sgae](https://github.com/user-attachments/assets/db5b6fde-821c-4264-94e7-b91e871cbab6)
